@@ -1,3 +1,6 @@
+[Stefano Carlo Lambertenghi](https://github.com/steflamb)
+
+[Felix Boelter](https://github.com/felixboelter/)
 # Robotics Road Simulation
 A controller implementation of lane following, road sign detecting, obstacle avoiding robots.
 
